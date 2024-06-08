@@ -1,6 +1,6 @@
  ### 📢 About me :   
 ####  
-![ ](https://i.postimg.cc/6QFZWR6m/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image.png)
+![ ](https://i.postimg.cc/d0qxmRxq/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-1.png)
 
  
 " I create frontend solutions that exceed technical standards and build strong user connections. My focus is on designing user-friendly interfaces, improving performance, and ensuring accessibility to craft memorable digital experiences."
